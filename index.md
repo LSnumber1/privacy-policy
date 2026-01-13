@@ -4,7 +4,7 @@ Last updated: 2026-01-08
 
 ## 1. Introduction
 
-This Privacy Policy applies to the mobile application **Flashlight Pro**  
+This Privacy Policy applies to the mobile application **Flashlight Tool**  
 (the “App”), published on Google Play and developed by **YiPinDaShuai** (“we”, “us”, or “our”).
 
 We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our App.
